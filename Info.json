@@ -1,0 +1,11 @@
+{
+  "name": "NodeCoin",
+  "website": "",
+  "description": "NodeCoin - Free-tax BEP-20 token on BNB Smart Chain. Supply planificat 48M, premint 10k la deploy.",
+  "explorer": "https://bscscan.com/token/0x8483def152e042150cae9ed04bbd4764efde700b",
+  "type": "BEP20",
+  "symbol": "NODECOIN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x8483def152e042150cae9ed04bbd4764efde700b"
+}
